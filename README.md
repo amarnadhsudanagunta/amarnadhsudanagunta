@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Amarnadh Sudanagunta 👋
 
-<!--
-**amarnadhsudanagunta/amarnadhsudanagunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ECE Student | VLSI & RTL Design Enthusiast
 
-Here are some ideas to get you started:
+I am an Electronics and Communication Engineering student interested in
+Digital Design, VLSI, RTL Design, Verilog, and FPGA-based systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Currently Learning
+
+- Digital Electronics
+- Verilog HDL
+- RTL Design
+- FPGA Design
+- SystemVerilog
+- VLSI Design Flow
+
+### 💻 Tools & Technologies
+
+- Verilog HDL
+- Xilinx Vivado
+- MATLAB
+- Git & GitHub
+
+### 🚀 Projects
+
+- 4-bit ALU using Verilog
+- Traffic Light Controller using FSM
+- FPGA-Based Counter
+- APB GPIO
+- CMOS Logic Gate Design & Analysis
+
+### 🎯 Career Goal
+
+Aspiring RTL Design Engineer, continuously building my knowledge
+through digital design, Verilog, RTL projects, and VLSI concepts.
+
+---
+
+⭐ Thanks for visiting my profile!
